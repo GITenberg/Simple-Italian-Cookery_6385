@@ -1,0 +1,24 @@
+_repo: Simple-Italian-Cookery_6385
+creator:
+  author:
+    agent_name: McGinnis, Mabel Earl
+    alias: Isola, Antonia
+    birthdate: 1876
+    gutenberg_agent_id: '2023'
+    url: http://www.gutenberg.org/2009/agents/2023
+    wikipedia: http://en.wikipedia.org/wiki/Antonia_Isola
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, Italian'
+title: Simple Italian Cookery
+url: http://www.gutenberg.org/ebooks/6385
